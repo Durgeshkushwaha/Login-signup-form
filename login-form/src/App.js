@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Authform from './Authform';
 
 function App() {
   return (
-    <div className="App">
-     <div>learning react</div>
+    <div>
+      <Authform/>
     </div>
   );
 }
